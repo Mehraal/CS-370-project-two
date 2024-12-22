@@ -1,1 +1,5 @@
 # CS-370-project-two
+# Briefly explain the work that you did on this project: What code were you given? What code did you create yourself? This project was about Q-learning and teaching a machine to complete a maze. the maze contains of available and blocked cells which the agent should learn how to proceed through these cells to complete the maze without exiting the maze.
+# What do computer scientists do and why does it matter? Computer scientists work and research on AI and machine learning to teach machines to behave similarly to humans to make our lives easier. 
+# How do I approach a problem as a computer scientist? My approach as a computer scientist is to visualize the problem first and write my visualization steps and try to teach the machine based on them to develop a machine that thinks closely as humans.
+# What are my ethical responsibilities to the end user and the organization? the ethical responsibilites we have toward the users and organizations is to follow the rules and regulations of Artificial intenligence technology and to make sure our work and developmen does not violate them to stay complient.
